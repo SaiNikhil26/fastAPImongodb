@@ -2,7 +2,7 @@ trigger:
 - main
 
 variables:
-  azureServiceConnectionId: '5f6428e4-ed4f-47fd-84c3-06daf1729cd1'
+  azureServiceConnectionId: 'b5356ec5-ea19-467f-b370-22f6bfbddb0a'
   webAppName: 'nikhilwebapp'
   pythonVersion: '3.11'
 
